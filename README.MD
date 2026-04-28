@@ -4,7 +4,7 @@
 This program is a small tool to register custom command as Web browser to Windows.
 By using this program, you can register any command as a web browser to Windows.
 
-This program was developed in the wake of the fact that when I searched for a way to make arbitrary commands recognized as web browsers, the search results were contaminated on a ridiculous website that everyone knows "how to set a default browser".
+This program was developed in the wake of the fact that when I searched for a way to make arbitrary commands recognized as web browsers, the search results were contaminated on a lot of ridiculous websites that everyone knows "how to set a default browser".
 
 ## How to use
 This program must be run with administrator privileges. Open the command prompt with administrator privileges first, and then run this program. Otherwise, you will not be able to see the output of the program.
