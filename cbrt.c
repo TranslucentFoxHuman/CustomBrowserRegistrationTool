@@ -1,5 +1,5 @@
 //このプログラムには日本語の文字列が含まれます。Text editors will recognize the Shift-JIS code by this line.
-#define __PROG_VER__ "1.0.0"
+#define __PROG_VER__ "1.0.1"
 
 /*
  * CBRT - Custom Browser Registration Tool
@@ -29,7 +29,7 @@ void print_help(void) {
     printf("CBRT - Custom web Browser Registration Tool for Windows\n"
            "\n"
            "Usage:\n"
-           "cbrt.exe </i ID> </n NAME> </c COMMAND> [/d DESCRIPTION] [/h | -h | --help] [/v]\n"
+           "cbrt.exe </i ID> </n NAME> </c COMMAND> [/d DESCRIPTION] [/h | /? | -h | --help] [/v]\n"
            "\n"
            "Options:\n"
            "/n              : Specify the name of the application.\n"
